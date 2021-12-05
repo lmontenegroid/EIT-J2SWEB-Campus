@@ -13,6 +13,11 @@ public final class Documento {
 	}
 	
 	
+	public Documento() {
+		// TODO Auto-generated constructor stub
+	}
+
+
 	@Override
 	public String toString() {
 		return "Tipo de Documento: " + tipoDoc + "\nNúmero de Documento: " + numDoc + "\n";

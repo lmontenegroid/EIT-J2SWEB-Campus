@@ -36,7 +36,10 @@ public class PersonaMain {
 		
 		p.informarPersona();
 		p.esMayor();
-		
+	
+		teclado.close();
 	}
+	
+	
 
 }

@@ -64,7 +64,7 @@ public class Main {
 				listaCursos[j] = teclado.next();
 			}
 			
-			listaAlumnos[i] = new Alumno(nombre, apellido, doc, edad, listaCursos);
+			//listaAlumnos[i] = new Alumno(nombre, apellido, doc, edad, listaCursos);
 		}
 		
 		for(Alumno a : listaAlumnos) {
